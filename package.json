@@ -1,0 +1,19 @@
+{
+  "name": "abhivish-engagement-invitation",
+  "version": "1.0.0",
+  "description": "Engagement invitation website for Abhiram and Vishnupriya",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "keywords": [
+    "engagement",
+    "invitation",
+    "wedding"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
